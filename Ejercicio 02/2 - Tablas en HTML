@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>"Ejercicio 02/2 - Tablas en HTML"</title>
+    </head>
+    <body>
+        <h3>"Ejercicio 02/2 - Tablas en HTML"</h3>
+        <table>
+        <tr>
+            <th>N°</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de Publicación</th>
+            <th>Enlace de Amazon</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>El gato que amaba los libros</td>
+            <td>Sosuke Natsukawa</td>
+            <td>2022</td>
+            <td> <a href="https://a.co/d/5noWv6j">https://a.co/d/5noWv6j</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>El Principito</td>
+            <td>Antoine De Saint-exupery</td>
+            <td>2016</td>
+            <td><a href="http://a.co/d/8scAMsp">https://a.co/d/8scAMsp</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>La Chica Bajo la Bandera: Monique</td>
+            <td>Alex Amit</td>
+            <td>2021</td>
+            <td><a href="https://a.co/d/h0wNjKu">https://a.co/d/h0wNjKu</a></td>
+        </tr>
+        </table>
+    </body>
+</html>
